@@ -69,4 +69,3 @@ const determineTrait = (blood, isPositive) => {
 
 let jane = peopleFactory(bloodType[1], true);
 
-console.log(jane.trait);
